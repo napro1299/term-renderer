@@ -1,0 +1,1 @@
+gcc tr-example.c -o test -lm
